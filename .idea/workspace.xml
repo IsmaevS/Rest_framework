@@ -6,17 +6,25 @@
   <component name="ChangeListManager">
     <list default="true" id="650f2d11-903a-4092-9887-ed3cc5346977" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/TODO/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/todo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/TODO/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/todo/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/TODO/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/todo/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/TODO/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/todo/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/TODO/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/todo/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/TODO/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/todo/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/TODO/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/todo/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/TODO/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/todo/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/TODO/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/todo/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo_list/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/todo_list/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo_list/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo_list/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo_list/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo_list/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_list/todo_list/wsgi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +56,14 @@
     "git-widget-placeholder": "feature/task-model"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\pythonProject8\todo_list" />
+      <recent name="C:\Users\User\PycharmProjects\pythonProject8" />
+      <recent name="C:\Users\User\PycharmProjects\pythonProject8\todo_list\todo_list" />
+      <recent name="C:\Users\User\PycharmProjects\pythonProject8\todo_list\todo" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
