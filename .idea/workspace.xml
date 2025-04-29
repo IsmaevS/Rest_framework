@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="650f2d11-903a-4092-9887-ed3cc5346977" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/poetry.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo_list/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo_list/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo_list/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo_list/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_list/todo_list/wsgi.py" beforeDir="false" />
-    </list>
+    <list default="true" id="650f2d11-903a-4092-9887-ed3cc5346977" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,12 +29,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/task-model"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/task-model&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\pythonProject8\todo_list" />
