@@ -13,7 +13,7 @@ class Status(models.Model):
     solution = models.TextField()
     status = models.CharField(max_length=20, choices=STATUS, default='new')
     created = models.DateTimeField(auto_now_add=True)
-    created_by = models.ForeignKey(User, on_delete=models.CASCADE, related_name='tasks')
+    created_by = models.ForeignKey(User, on_delete=models.DO_NOTHING, related_name='tasks')
 
     def __str__(self):
         return self.title
